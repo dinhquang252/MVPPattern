@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MVPPattern</string>
+    <string name="keyword">Keyword</string>
+    <string name="limit_number">Limit Number</string>
+    <string name="search">Search</string>
 </resources>
